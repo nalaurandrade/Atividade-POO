@@ -1,0 +1,14 @@
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.AssemblyInfoInputs.cache
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.AssemblyInfo.cs
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.csproj.CoreCompileInputs.cache
+C:\Users\040721\source\repos\atividade3po\atividade3po\bin\Debug\net8.0\atividade3po.exe
+C:\Users\040721\source\repos\atividade3po\atividade3po\bin\Debug\net8.0\atividade3po.deps.json
+C:\Users\040721\source\repos\atividade3po\atividade3po\bin\Debug\net8.0\atividade3po.runtimeconfig.json
+C:\Users\040721\source\repos\atividade3po\atividade3po\bin\Debug\net8.0\atividade3po.dll
+C:\Users\040721\source\repos\atividade3po\atividade3po\bin\Debug\net8.0\atividade3po.pdb
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.dll
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\refint\atividade3po.dll
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.pdb
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\atividade3po.genruntimeconfig.cache
+C:\Users\040721\source\repos\atividade3po\atividade3po\obj\Debug\net8.0\ref\atividade3po.dll
